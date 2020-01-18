@@ -1,16 +1,2 @@
 google.com
 github.com
-gmail.com
-centiment.co
-digitalocean.com
-survey.centiment.co
-app.surveyhoney.com
-surveyhoney.com
-zoom.us
-pritunl.com
-samplicio.us
-luc.id
-lucidhq.com
-surveymonkey.com
-surveygizmo.com
-typeform.com

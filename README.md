@@ -12,18 +12,30 @@ To run:
 go run src/bulk-dns-lookup.go src/input.txt src/output.json
 ````
   
-Example output:
+Example input (`input.txt`):
+````
+google.com
+github.com
+````
+  
+Example output (`output.json`):
 ````
 [
   {
     "domain": "google.com",
     "ips": [
-      "74.125.24.101",
       "74.125.24.102",
       "74.125.24.113",
       "74.125.24.138",
       "74.125.24.139",
-      "74.125.24.100"
+      "74.125.24.100",
+      "74.125.24.101"
+    ]
+  },
+  {
+    "domain": "github.com",
+    "ips": [
+      "52.74.223.119"
     ]
   }
 ]
