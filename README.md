@@ -1,7 +1,7 @@
 Bulk DNS Lookup
 ===============
 
-Author: **[Afaan Bilal](https://afaan.me)**
+Author: **[Afaan Bilal](https://afaan.dev)**
 
 ## Introduction
 **Bulk DNS Lookup** is a small program written in Go that takes a newline separated text file of domain names and returns
